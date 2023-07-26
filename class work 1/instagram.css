@@ -1,0 +1,20 @@
+body {
+background-color: yellow;
+}
+#content {
+    /* background-color: aqua; */
+    width: auto;
+    /* height: 200px; */
+}
+#snap {
+   background-color: aqua;
+    float: left;
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 300px;
+    height: 200px;
+    
+}
+#info{
+
+}

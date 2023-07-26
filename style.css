@@ -1,0 +1,32 @@
+#header{
+    background-color: fuchsia;
+    height: 200px; 
+    width: 1000px;
+}
+
+#header ul{
+    list-style: none;
+    padding-top: 30px;
+    /* padding-bottom: 30px; */
+    /* margin-bottom: 100px; */
+}
+
+#header ul li{
+    display: inline;
+    margin-right: 20px;
+    border-right: 2px solid black;
+    padding-right: 10px;
+    /* border-style: dotted; */
+    /* border */
+}
+
+#temi{
+    /* margin-top: 100px; */
+    /* margin-left: 100px; */
+}
+
+.changeColour{
+    color: red;
+}
+
+#

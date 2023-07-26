@@ -1,0 +1,13 @@
+#header{
+    background-color: grey;
+    height: 200px;
+    width: 1000px;
+}
+#header ul{
+    list-style: none;
+    margin-left: 400px;
+}
+#h1{
+    color: blueviolet;
+    margin-left: 300px;
+}

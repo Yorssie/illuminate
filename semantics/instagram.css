@@ -1,0 +1,183 @@
+body{
+    background-color: #f0f2f5;
+    font-family: Helvetica;
+}
+#content{
+    margin-top: 100px;
+}
+#phones{
+    margin-left: 200px;
+    float: left;
+}
+
+#ig{
+    height: 500px;
+    width: 430px;
+    float: left;
+    text-align: center;
+    /* background-color: blue; */
+    /* background-color: white;
+    border: 1px solid grey */
+}
+#form{
+    background-color: white;
+    width: auto;
+    height: 400px;
+    /* margin-bottom: 100px; */
+    border: 1px solid #dbdbdb
+    
+}
+    
+
+#igimage{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+input{
+    margin: 10px;
+    width: 300px;
+    height: 30px;
+    border: 1px solid #dddfe2;
+}
+input::placeholder{
+    padding-left: 20px;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+     'Open Sans', 'Helvetica Neue', sans-serif; */
+}
+input:focus{
+    outline: none;
+    border: 0.5px solid #2d84f4;
+    box-shadow: 5px #2d84f4;
+}
+#submit{
+    border-radius: 8px;
+    font-size: 1em;
+    color: #f0f2f5;
+    font-weight: bold;
+    background-color: #1c74f4;
+    /* border: #2d84f4; */
+    margin-bottom: 15px;
+}
+#or{
+    color: grey;
+    margin-left: 20px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#hrline{
+    border-bottom: 1px solid #dadde1;
+    margin-top: 25px;
+    margin-left: 35px;
+    width: 150px;
+    float: left;
+}
+#hrline2{
+    border-bottom: 1px solid #dadde1;
+    margin-top: 25px;
+    margin-left: 35px;
+    width: 150px;
+    float: left;
+
+}
+#facebook{
+margin-top: 5px;
+margin-bottom: 50px;
+/* margin-right: 20px; */
+margin-left: 150px;
+/* padding-right: 50px; */
+
+float: left;
+color: #191970;
+font-weight: 500;
+font-family: system-ui, -apple-system, BlinkMacSystemFont,
+ 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+  'Helvetica Neue', sans-serif;
+}
+#forgot-p{
+    font-weight: 0.3em;
+    font-size: 0.9em;
+}
+#log-in{
+    margin-top: -10px;
+}
+
+#log-in a{
+    color: #191970;
+   
+}
+
+.card-footer-text a{
+    text-decoration: none;
+}
+/* #form2{
+    float: right;
+    margin-right: 350px;
+    
+    margin-bottom: 300px;
+    background-color: white;
+    width: 400px;
+    height: 80px;
+    padding-bottom: 200px;
+    border: 1px solid grey
+    
+    
+    
+} */
+
+#form2{
+    background-color: white;
+    width: auto;
+    height: 70px;
+    margin-top: 30px;
+    border: 1px solid  #dddfe2;
+    
+}
+
+#sign-up{
+    font-size: 1.2em;
+}
+ 
+#sign-up a{
+    text-decoration: none;
+    color: #0095f6;
+}
+/* #input2{
+    float: right;
+    background-color: white;
+    width: auto;
+    height: 100px;
+    margin-bottom: 100px;
+    border: 1px solid grey
+} */
+#get p{
+font-size: large;
+}
+#get{
+    text-align: center;
+
+    /* justify-content: center; */
+}
+#get img{
+    float: left;
+    /* width: 100px; */
+}
+
+#playstore{
+    width: 149px;
+    margin-left: 10px;
+}
+
+#appstore{
+    margin-left: 57px;
+    width: 150px;
+}
+
+@media screen and (max-width: 700px) {
+    #phones{
+        display: none;
+        /* margin-left: 100px; */
+    }
+}
+

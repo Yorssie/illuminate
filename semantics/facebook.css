@@ -1,0 +1,112 @@
+body{
+    background-color: #f0f2f5;
+}
+#content{
+    margin-top: 200px;
+    color: black;width: auto;
+}
+#h2{
+    font-family: Arial, Helvetica, sans-serif;color: #2d84f4;
+    margin-left: 200px;
+    font-size: 400%;
+}
+#facebook{
+    float: left;
+    width: 700px;
+    margin-top: 10px;
+    /* background-color: red; */
+
+}
+
+#left{
+    width: 420px;
+    height: 500px;
+    float: left;
+    text-align: center;
+
+}
+
+#form{
+    background-color: white;
+    width: auto;
+    height: 370px;
+    border-radius: 10px;
+}
+#fbtext{
+    margin-left: 200px;
+    font-size: 180%;
+    margin-top: -45px;
+
+}
+
+input{
+    margin: 10px;
+    width: 385px;
+    border: 1px solid #dddfe2;
+    border-radius: 5px;
+    height: 50px;
+}
+
+#{
+
+
+}
+
+input::placeholder{
+    /* margin: auto; */
+    padding-left: 20px;
+    font-size: 1.2em;
+}
+
+input:focus{
+    outline: none !important;
+    border:1px solid #2d84f4;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+#submit{
+    border-radius: 10px;
+    color: #f0f2f5;
+    font-size: 1.3em;
+    font-weight: bold;
+    background-color: #1c74f4;
+    margin-bottom: 15px;
+}
+
+#forgot{
+    text-decoration: none;
+    color: #348cf4;
+    padding-top: 100px;
+}
+
+#forgot:hover{
+    text-decoration: underline;
+    color: #348cf4;
+}
+
+#hr_line{
+    border-bottom: 1px solid #dadde1;
+    margin-top: 20px;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+#create_account{
+    border-radius: 10px;
+    color: #f0f2f5;
+    margin-top: 30px;
+    font-size: 1.1em;
+    font-weight: bold;
+    width: 200px;
+    background-color: #42b72a;
+    margin-bottom: 25px;
+}
+
+#weOutside{
+    /* background-color: red; */
+    width: auto;
+    height: 100px;
+    margin-top: 20px;
+    text-align: center;
+
+}

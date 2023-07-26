@@ -1,0 +1,43 @@
+#wrapper{
+    width: auto;
+    background-color: blue;
+}
+
+nav ul{
+    list-style: none;
+    padding-top: 20px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+} 
+
+footer{
+    position: absolute;
+    top: 100%;
+}
+
+#banner{
+    height: 250px;
+    width: 100%;
+}
+
+article{
+    float: left;
+    width: 900px;
+}
+
+aside{
+    float: left;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: fuchsia;
+}

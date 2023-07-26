@@ -1,0 +1,57 @@
+#folder{
+    width: auto;
+    height: 100px;
+    background-color: blueviolet;
+}
+nav ul{
+    list-style: none;
+    padding-top: 30px;
+}
+nav ul li{
+    display: inline;
+    padding-left: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+img{
+    width: 400px;
+    height: 300px;
+    margin-top: 100px;
+    border-radius: 70px;
+    width: 100%;
+}
+#content{
+    height: auto;
+    width: auto;
+}
+article{
+    float: left;
+    width: 800px;
+}
+#sidetext{
+    float: left;
+    color: brown;
+    width: auto;
+}
+table{
+    text-align: center;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: aquamarine;
+    margin-top: 100px;
+    color: blue;
+    position: absolute;
+    top: 100%;
+    text-align: center;
+}
+
+#services-menu{
+    display: none;
+}
+
+#home:hover{
+
+}

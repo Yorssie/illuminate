@@ -1,0 +1,3 @@
+for (var junior=0; junior<5; junior++){
+    console.log(junior);
+}
